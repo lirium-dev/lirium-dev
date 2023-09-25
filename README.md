@@ -1,7 +1,7 @@
 # lirium - trainee
 ![ThisIsMe](https://cdn.discordapp.com/attachments/1028578471976370199/1155834839312908318/Untitledbanner.jpg)
 
-> **Main Languages**
+> **Main Languages and Skills**
 > 
 > ![HTML5](https://img.shields.io/badge/HTML-orange)
 > ![Photoshop](https://img.shields.io/badge/Photoshop-blue)
