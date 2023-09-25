@@ -1,4 +1,4 @@
-# zeroday - coding with passion.
+# lirium - trainee
 ![ThisIsMe](https://cdn.discordapp.com/attachments/1028578471976370199/1155834839312908318/Untitledbanner.jpg)
 
 > **Main Languages**
