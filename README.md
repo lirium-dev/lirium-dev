@@ -6,7 +6,8 @@
 > ![HTML5](https://img.shields.io/badge/HTML-orange)
 > ![Photoshop](https://img.shields.io/badge/Photoshop-blue)
 > ![C#](https://img.shields.io/badge/CSharp-green)
-> ![Angular](https://img.shields.io/badge/Python-yellow)
+> ![Python](https://img.shields.io/badge/Python-yellow)
+> ![Figma](https://img.shields.io/badge/Figma-red)
 
 
 
