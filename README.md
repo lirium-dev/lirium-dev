@@ -1,5 +1,6 @@
 # lirium - trainee
-![ThisIsMe](https://cdn.discordapp.com/attachments/877642357250601040/1156196870134173746/Untitledbanner_3.jpg?ex=651417be&is=6512c63e&hm=b7863acfa151965405ac14f3bd74714692dafead497b1a3ba5d0e992ad8a7bfa&)
+![ThisIsMe](![image](https://github.com/lirium-dev/lirium-dev/assets/81167211/b3a54890-661c-41ed-b34c-36bb22d9b591)
+)
 
 > **Main Languages and Skills**
 > 
