@@ -1,6 +1,6 @@
 # lirium - trainee
-![ThisIsMe](![image](https://github.com/lirium-dev/lirium-dev/assets/81167211/1463d240-618b-4460-a09b-7affcd849b42)
-)
+![image](https://github.com/lirium-dev/lirium-dev/assets/81167211/1463d240-618b-4460-a09b-7affcd849b42)
+
 
 
 > **Main Languages and Skills**
