@@ -16,7 +16,7 @@
 
 </br>
 
-👨‍💻 Backend Developer | Still learning
+👨‍💻 System Integrator | Still learning
 🌐 Buildung and Crafting new Ideas.
 
 🚀 Passionate about creating seamless user experiences and crafting.
