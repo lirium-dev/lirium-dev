@@ -36,7 +36,7 @@
 📫 Contact me:
 - 🌐 Website: [lirium.site](https://dante.systems)
 - 📧 Email: liriumcsgo@gmail.com
-- 🐦 Twitter: [@twitter](https://twitter.com/)
+- 🐦 Twitter: [@lirium](https://longdogechallenge.com/)
 
 
 🔗 Feel free to Look around
