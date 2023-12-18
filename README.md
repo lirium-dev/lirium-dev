@@ -28,7 +28,7 @@
 
 🎯 Currently focused on:
 - Improving my Skills
-- Make Clean Frontend
+- Create Clean Frontend
 - Learning new Langauges
 
 🌟 Did you know: We are more creative in the shower! 🤝
