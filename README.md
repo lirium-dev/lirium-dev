@@ -6,8 +6,12 @@
 > **Main Languages and Skills**
 > 
 > ![HTML5](https://img.shields.io/badge/HTML-orange)
+> ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 > ![Photoshop](https://img.shields.io/badge/Photoshop-blue)
 > ![C#](https://img.shields.io/badge/CSharp-green)
+> ![Powershell](https://img.shields.io/badge/Powershell-blue)
+> ![MySQL](https://img.shields.io/badge/MySQL-green)
 > ![Python](https://img.shields.io/badge/Python-yellow)
 > ![Figma](https://img.shields.io/badge/Figma-red)
 
