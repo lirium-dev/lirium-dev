@@ -5,45 +5,24 @@
 
 > **Main Languages and Skills**
 > 
-> ![HTML5](https://img.shields.io/badge/HTML-orange)
-> ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-> ![Photoshop](https://img.shields.io/badge/Photoshop-blue)
-> ![C#](https://img.shields.io/badge/CSharp-green)
-> ![Powershell](https://img.shields.io/badge/Powershell-blue)
-> ![MySQL](https://img.shields.io/badge/MySQL-green)
-> ![Python](https://img.shields.io/badge/Python-yellow)
-> ![Figma](https://img.shields.io/badge/Figma-red)
+> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+> ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+> ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+> ![MSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+> ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+> **Secondary Languages**
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
 
 </br>
 
-👨‍💻 System Integrator | Still learning
-🌐 Buildung and Crafting new Ideas.
-
-🚀 Passionate about creating seamless user experiences and crafting.
-
-💡 Expertise:
-- Backend Development
-- GFX Design
-- VFX Design
-
-🎯 Currently focused on:
-- Improving my Skills
-- Create Clean Frontend
-- Learning new Langauges
-
-🌟 Did you know: We are more creative in the shower! 🤝
-
-📫 Contact me:
-- 🌐 Website: [lirium.site](https://dante.systems)
-- 📧 Email: liriumcsgo@gmail.com
-- 🐦 Twitter: [@lirium](https://longdogechallenge.com/)
-
-
-🔗 Feel free to Look around
-
+> ![Stats](https://github-readme-stats.vercel.app/api?username=lirium-dev&theme=dracula)
 
 </br>
