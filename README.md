@@ -13,6 +13,8 @@
 > ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 > ![MSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 > ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+> ![ABAP](https://img.shields.io/badge/ABAP-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+> ![UI5](https://img.shields.io/badge/UI5-CC2927?style=for-the-badge&logo=html5&logoColor=white)
 
 > **Secondary Languages**
 >
