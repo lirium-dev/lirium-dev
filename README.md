@@ -15,6 +15,7 @@
 > ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 > ![ABAP](https://img.shields.io/badge/ABAP-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 > ![UI5](https://img.shields.io/badge/UI5-CC2927?style=for-the-badge&logo=html5&logoColor=white)
+> ![Figma](https://img.shields.io/badge/Figma-%1331A8FF.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
 > **Secondary Languages**
 >
